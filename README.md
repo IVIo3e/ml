@@ -5,3 +5,6 @@ Simulation of the fermentation process. The goal is to obtain a model capable of
 
 ## NER
 The goal of the project is to learn how to use various tools for working with natural language. LSTM models were trained, as well as the word2vec model for vector representation of words.
+
+## NewYork taxi trip duration
+https://www.kaggle.com/c/nyc-taxi-trip-duration. Data analysis and processing + study of lightautoml technology.
