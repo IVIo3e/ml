@@ -8,3 +8,6 @@ The goal of the project is to learn how to use various tools for working with na
 
 ## Hierarchical classification
 Predicting the hierarchy for a specific product. Several catboost/boost + ru_bert models, RNN and Bayesian classifier were tested. 
+
+## Typo detection
+Identifying typos in queries
